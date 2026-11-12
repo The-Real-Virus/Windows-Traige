@@ -1,0 +1,12 @@
+{
+  "host": "SYNTHETIC-WORKSTATION",
+  "observed": "2025-05-01T13:00:00Z",
+  "process_created": "2025-05-01T12:55:00Z",
+  "reused_created": "2025-05-01T13:03:00Z",
+  "event_id": 7045,
+  "channel": "System",
+  "pid": 4420,
+  "path": "C:\\Fixtures\\demo-worker.exe",
+  "remote_ip": "192.0.2.25",
+  "remote_port": 443
+}
